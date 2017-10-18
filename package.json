@@ -44,7 +44,7 @@
     },
     "devDependencies": {
         "@ionic/app-scripts": "^3.0.0",
-        "ionic": "3.13.0",
+        "ionic": "3.13.1",
         "typescript": "2.3.4"
     },
     "description": "An Ionic project",
@@ -54,11 +54,11 @@
             "cordova-plugin-console": {},
             "cordova-plugin-device": {},
             "cordova-plugin-splashscreen": {},
-            "cordova-plugin-statusbar": {},
             "cordova-plugin-whitelist": {},
             "ionic-plugin-keyboard": {},
             "cordova-plugin-ionic-webview": {},
-            "cordova-plugin-inappbrowser": {}
+            "cordova-plugin-inappbrowser": {},
+            "cordova-plugin-statusbar": {}
         },
         "platforms": [
             "ios"
